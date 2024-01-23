@@ -37,3 +37,4 @@ Com a lista de passos em mãos, o desenvolvimento do código seguiu o seguinte r
  - tamanho de família de **até 7 membros**<br/>
  - tem entre **10 a 15 anos de experiência profissional**<br/>
  - **faixa de renda parece não ter grande influência** na determinação da nota <br/>
+ - **não há diferenças relevantes** nas notas atribuídas a clientes provenientes de **promoção ou não**
